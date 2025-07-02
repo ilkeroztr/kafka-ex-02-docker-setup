@@ -16,7 +16,7 @@ Bu projede Apache Kafka ve Zookeeper'ı Docker kullanarak Google Cloud VM üzeri
 
 ---
 
-## 🗂 Proje Dosyaları
+##  Proje Dosyaları
 
 - `docker-compose.yml` → Kafka ve Zookeeper'ı ayağa kaldıran dosya.
 - `screenshots/` → Terminal çıktıları ve GCP ayarlarına ait ekran görüntüleri.
